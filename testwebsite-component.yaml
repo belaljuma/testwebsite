@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: belalTestWebsite
+  # This is an extra long description
+  description: The test website lablablah.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: team-c
